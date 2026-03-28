@@ -13,3 +13,4 @@ for (let i = 1; i < TAMANHO_LARGURA; i++) {
     sequencia += "\n"
 }
 console.log(sequencia);
+console.log(process.argc)
