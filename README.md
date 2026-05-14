@@ -1,63 +1,22 @@
-# Eloquent JavaScript — Exercícios
+# Resoluções - Eloquent JavaScript
 
-Este repositório contém minhas soluções para os exercícios do livro **JavaScript Eloquente**, de Marijn Haverbeke.
+Repositório destinado ao armazenamento das resoluções dos exercícios práticos propostos no livro "JavaScript Eloquente", de Marijn Haverbeke.
 
-O objetivo deste projeto é consolidar o aprendizado dos fundamentos de JavaScript através da resolução prática dos problemas propostos no livro.
+## Estrutura do Repositório
+O código está organizado hierarquicamente por capítulos, mantendo a isolação de cada problema proposto. O padrão de diretórios segue a estrutura `capitulo-xx/ex-yy/index.js`.
 
-## Estrutura do repositório
+* /capitulo-02-estrutura-do-programa: Fundamentos de controle de fluxo e sintaxe.
+* /capitulo-03-funcoes: Exercícios envolvendo escopo, recursão e closures.
+* /capitulo-04-estruturas-de-dados: Manipulação primária de arrays e objetos.
+* Capítulos subsequentes: Funções de ordem superior, manipulação estrutural do DOM e tratamento de eventos no navegador.
 
-Os exercícios estão organizados por capítulo do livro.
+## Proposta
+O objetivo central deste repositório é consolidar os fundamentos da linguagem JavaScript através da resolução manual de problemas. O foco recai sobre o entendimento profundo da estrutura da linguagem, gerenciamento de memória e manipulação de estruturas de dados puras, priorizando a base técnica antes da introdução de bibliotecas ou frameworks externos.
 
-Cada pasta representa um capítulo e contém subpastas para cada exercício resolvido.
+## Tecnologias e Ambiente de Execução
+* JavaScript (ES6+)
+* Node.js (para execução algorítmica no terminal)
+* HTML / Browser (exclusivamente para os exercícios focados em DOM e eventos)
 
-Exemplo de estrutura:
-
-```
-capitulo-02-estrutura-do-programa
- ├─ ex01
- │   └─ index.js
- ├─ ex02
- │   └─ index.js
- └─ ex03
-     └─ index.js
-```
-
-## Conteúdo estudado
-
-Os capítulos abordados incluem:
-
-* Fundamentos da linguagem JavaScript
-* Estrutura de programas
-* Funções
-* Estruturas de dados
-* Objetos
-* Funções de ordem superior
-* Manipulação do DOM
-* Eventos no navegador
-
-## Objetivo
-
-Este repositório serve como:
-
-* registro do meu progresso no estudo de JavaScript
-* prática de resolução de problemas
-* referência futura para conceitos da linguagem
-
-## Tecnologias utilizadas
-
-* JavaScript
-* HTML (para exercícios envolvendo DOM)
-
-## Observação
-
-As soluções refletem meu processo de aprendizado e podem evoluir com o tempo conforme novos conceitos forem assimilados.
-
-## Referência
-
-Livro utilizado:
-*Eloquent JavaScript — Marijn Haverbeke*
-
----
-
-Autor:
-*John Miguel*
+## Referência Bibliográfica
+* Livro: Eloquent JavaScript — Marijn Haverbeke.
